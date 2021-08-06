@@ -2,3 +2,4 @@ diamond_venv/
 flask-wtf
 config.py
 .env
+__pycache__
