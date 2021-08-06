@@ -15,5 +15,5 @@ def register():
         print ('THE FORM IS VALID')
         username = form.username.data
         phone_number= form.phone_number.data
-        
+    return render_template('phone_book.html')
 
